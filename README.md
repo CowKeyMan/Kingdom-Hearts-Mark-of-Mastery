@@ -6,4 +6,8 @@ This was a 2D game which I created both for my own entertainment and to familiar
 Please note that some of the code practices here are not the best in any way as this was still a learning project. Feel free to take a look at both the gameplay and the code in order to learn some basics about 
 
 ## Installation 
-Clone the repository, unzip the files within the repository and run the .jar or .exe files
+1) Clone/Download the repository
+2) Download the assets from: https://www.dropbox.com/s/sineejdvdgyjday/KHMoMAssets.zip?dl=1
+3) Unzip the assets within the same folder as the scripts (yes dump everything there, not in a separate folder)
+4) Run the .jar or .exe files to play the game
+5) Enjoy ^-^
